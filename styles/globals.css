@@ -9,7 +9,15 @@ body {
 * {
   box-sizing: border-box;
 }
-
+.container {
+   background: rgb(255, 250, 250);
+  border-radius: 6px;
+  height: 763px;
+  width: 400px;
+  margin-top: 40px;
+  box-sizing: border-box;
+}
+}
 main {
   padding: 2rem 20px;
   display: flex;
