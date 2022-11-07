@@ -10,7 +10,15 @@
   padding: 12px 20px;
   width: 100%;
 }
-
+.container {
+  background: rgb(255, 250, 250);
+  border-radius: 6px;
+  height: 763px;
+  width: 400px;
+  margin-top: 40px;
+  box-sizing: border-box;
+}
+}
 .button {
   background-color: teal;
   border: 1px solid black;
