@@ -1,7 +1,10 @@
 .form {
-  margin: 40px 40px;
-  min-width: 300px;
-  width: 45%;
+      margin: 40px;
+    min-width: 300px;
+    width: 45%;
+    box-sizing: border-box;
+    justify-content: center;
+    text-align: center;
 }
 
 .form-field {
