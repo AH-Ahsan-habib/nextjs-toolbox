@@ -26,8 +26,6 @@ export default function FeedbackForm() {
           
            <input id="email" className={styles['form-field']}  name="pass" type="password" placeholder="Password" required/>
 
-        <label htmlFor="feedback">What is your feedback?</label>
-        <textarea id="feedback" className={styles['form-field']} wrap="soft" name="feedback" required></textarea>
         <button className={styles.button} type="submit">Log In</button>
       </form>
   )
